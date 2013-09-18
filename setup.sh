@@ -32,4 +32,3 @@ else
   curl -o maven.xml "https://github.com/venambati/jetty-openshift-quickstart/master/maven.xml"
 
 fi
-
